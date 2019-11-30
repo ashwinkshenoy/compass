@@ -1,6 +1,9 @@
 # magnet
 
 Demo: [compass.ashwinshenoy.com](compass.ashwinshenoy.com)
+
+<br />
+
 Ps: Enable Magnetometer Flag in chrome://flags
 
 ## Project setup
