@@ -1,5 +1,8 @@
 # magnet
 
+Demo: [compass.ashwinshenoy.com](compass.ashwinshenoy.com)
+Ps: Enable Magnetometer Flag in chrome://flags
+
 ## Project setup
 ```
 npm install
@@ -25,5 +28,3 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
