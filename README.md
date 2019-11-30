@@ -1,6 +1,6 @@
 # magnet
 
-Demo: [compass.ashwinshenoy.com](compass.ashwinshenoy.com)
+Demo: [compass.ashwinshenoy.com](https://compass.ashwinshenoy.com)
 
 <br />
 
