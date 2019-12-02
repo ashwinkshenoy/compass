@@ -3,7 +3,7 @@
 Demo: [compass.ashwinshenoy.com](https://compass.ashwinshenoy.com)
 <br />
 
-**NOTE:** Enable Magnetometer Flag in chrome://flags
+**NOTE:** Enable Magnetometer Flag in `chrome://flags`
 
 ## Project setup
 ```
